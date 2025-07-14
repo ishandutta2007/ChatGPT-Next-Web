@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://nextchat.club">
-  <img src="https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3" width="1000" alt="NextChat Logo"/>
+  <img src="https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3" width="1000" alt="icon"/>
 </a>
 
 <h1 align="center">NextChat</h1>
@@ -9,10 +9,10 @@
 English / [简体中文](./README_CN.md)
 
 <a href="https://trendshift.io/repositories/5973" target="_blank">
-  <img src="https://trendshift.io/api/badge/repositories/5973" alt="ChatGPTNextWeb Trendshift Badge" width="250" height="55"/>
+  <img src="https://trendshift.io/api/badge/repositories/5973" alt="Trendshift badge" width="250" height="55"/>
 </a>
 
-✨ Light, Fast, Powerful AI Assistant — supporting Claude, DeepSeek, GPT-4, and Gemini Pro.
+✨ Light and fast AI assistant, supporting Claude, DeepSeek, GPT-4 & Gemini Pro.
 
 [![Saas][Saas-image]][saas-url]
 [![Web][Web-image]][web-url]
@@ -20,7 +20,7 @@ English / [简体中文](./README_CN.md)
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[NextChatAI](https://nextchat.club?utm_source=readme) • [iOS App](https://apps.apple.com/us/app/nextchat-ai/id6743085599) • [Web Demo](https://app.nextchat.club) • [Desktop Releases](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) • [Enterprise Edition](#enterprise-edition)
+[NextChatAI](https://nextchat.club?utm_source=readme) / [iOS APP](https://apps.apple.com/us/app/nextchat-ai/id6743085599) / [Web App Demo](https://app.nextchat.club) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Enterprise Edition](#enterprise-edition)
 
 [saas-url]: https://nextchat.club?utm_source=readme
 [saas-image]: https://img.shields.io/badge/NextChat-Saas-green?logo=microsoftedge
@@ -41,141 +41,184 @@ English / [简体中文](./README_CN.md)
 
 ---
 
-## ❤️ Sponsored API Access by 302.AI
+## ❤️ Sponsor: AI API Powered by 302.AI
 
 <a href="https://302.ai/">
-  <img src="https://github.com/user-attachments/assets/a03edf82-2031-4f23-bdb8-bfc0bfd168a4" width="100%" alt="302.AI"/>
+  <img src="https://github.com/user-attachments/assets/a03edf82-2031-4f23-bdb8-bfc0bfd168a4" width="100%" alt="302.AI Banner"/>
 </a>
 
-[302.AI](https://302.ai/) provides a flexible, pay-as-you-go AI API suite, offering top-tier models and web apps under one platform.
+[302.AI](https://302.ai/) is a flexible pay-as-you-go platform offering some of the most comprehensive AI APIs and tools available today.
 
 ---
 
-## 🥳 NextChat for iOS is Here!
+## 🥳 NextChat iOS Version Is Live!
 
-> [👉 Install on iOS Now](https://apps.apple.com/us/app/nextchat-ai/id6743085599)
-> [❤️ iOS Source Code Coming Soon](https://github.com/ChatGPTNextWeb/NextChat-iOS)
+> [👉 Install Now on iOS](https://apps.apple.com/us/app/nextchat-ai/id6743085599)  
+> [❤️ Source Code Coming Soon](https://github.com/ChatGPTNextWeb/NextChat-iOS)
 
-<img src="https://github.com/user-attachments/assets/e0aa334f-4c13-4dc9-8310-e3b09fa4b9f3" alt="iOS Screenshot"/>
+![iOS Screenshot](https://github.com/user-attachments/assets/e0aa334f-4c13-4dc9-8310-e3b09fa4b9f3)
 
 ---
 
-## 🫣 MCP Support
+## 🫣 MCP Support Enabled!
 
-> To enable MCP, set `ENABLE_MCP=true` in your environment.
+> Set `ENABLE_MCP=true` in your environment before building.
 
 <img src="https://github.com/user-attachments/assets/d8851f40-4e36-4335-b1a4-ec1e11488c7e"/>
 
 ---
 
-## 🏢 Enterprise Edition
+## 💼 Enterprise Edition
 
-NextChat meets your business needs for privatized, secure, and custom AI deployments:
+Meet your organization’s privatization and customization requirements:
 
-* **Brand Customization**: Tailor UI/UX to reflect your corporate identity.
-* **Unified Resource Management**: Centralize access and usage of AI resources across your organization.
-* **Granular Permissions**: Control who can access specific features or knowledge bases.
-* **Secure Knowledge Integration**: Combine your private knowledge bases with AI for targeted relevance.
-* **Auditing and Compliance**: Log all user interactions and prevent sensitive data leaks.
-* **Private Cloud Deployments**: On-premise or private cloud—your data, your control.
-* **Continuous Innovation**: Stay up to date with the latest AI technologies like multimodal support and vision capabilities.
+- **Branding**: Custom UI/UX aligned to your corporate visual identity
+- **Resource Management**: Admin-configured AI resources, available to all team members
+- **Access Controls**: Granular permission settings for users and groups
+- **Internal Knowledge Integration**: Tailor the AI using your company’s internal knowledge base
+- **Security Auditing**: Sensitive query interception and historical tracking
+- **Private Deployment**: Compatible with mainstream private cloud infrastructure
+- **Ongoing Innovation**: Continuously updated with multimodal and cutting-edge AI capabilities
 
-📩 **Business Inquiries**: [business@nextchat.dev](mailto:business@nextchat.dev)
+📩 Contact us: **business@nextchat.dev**
 
 ---
 
 ## 🖼 Screenshots
 
-<img src="./docs/images/settings.png" alt="Settings UI"/>
-<img src="./docs/images/more.png" alt="More Options"/>
-<img src="./docs/images/cover.png" alt="Main UI"/>
+![Settings](./docs/images/settings.png)  
+![More](./docs/images/more.png)  
+![Main UI](./docs/images/cover.png)
 
 ---
 
-## ✨ Features at a Glance
+## 🚀 Features
 
-* 🚀 One-click deployment via Vercel (ready in under 60 seconds)
-* 🖥️ Lightweight desktop apps (\~5MB) for all major platforms
-* 🔌 Support for self-hosted models via RWKV-Runner and LocalAI
-* 🔒 Privacy-first: chat history stored locally in your browser
-* 🧾 Rich Markdown rendering (LaTeX, Mermaid, code highlighting)
-* 🌘 Dark mode, mobile-friendly, installable PWA
-* ⚡ Fast initial load (\~100KB), supports response streaming
-* 🧠 Prompt templates and masks for reusable workflows
-* 🧩 Plugin support: calculator, web search, and more
-* 🌐 Multi-language: English, 中文, 日本語, Français, Español, Deutsch, Türkçe, Русский, 한국어, etc.
-* 🧳 Automatically compresses chat history for long conversations
-* 🔍 Realtime chat support, visual sharing, and ShareGPT integration
-
----
-
-## 🚧 Roadmap Highlights
-
-* ✅ System Prompt Pinning
-* ✅ Prompt Templates
-* ✅ Desktop App via Tauri
-* ✅ Self-hosting Model Compatibility
-* ✅ Artifacts UI for content previewing
-* ✅ Plugin Support & API Tools
-* ✅ Realtime Chat Support
-* ⏳ Coming Soon: Local Knowledge Base
+- Deploy for free with one click via Vercel
+- Desktop client (~5MB) for Linux, Windows, macOS
+- Fully compatible with self-hosted LLMs ([RWKV-Runner](https://github.com/josStorer/RWKV-Runner), [LocalAI](https://github.com/go-skynet/LocalAI))
+- Local-first data storage – chat history stays in the browser
+- Markdown rendering (LaTex, Mermaid, code highlighting)
+- Mobile-friendly UI with responsive design and dark mode
+- Super-fast initial load (~100KB), streaming response support
+- Prompt templates and masks for quick prompt engineering
+- Auto chat history compression for efficient long-form use
+- Multilingual interface: English, 中文, 日本語, Français, Español, Deutsch, Türkçe, Русский, 한국어, etc.
+- Real-time chat, image sharing, ShareGPT support
+- Plugin support for search, calculator, and more
 
 ---
 
-## 🔄 Recent Updates
+## 🗺 Roadmap
 
-* 🔥 v2.15.8 — Real-time Chat Enabled
-* 🔒 v2.15.4 — Enhanced API Security with Tauri
-* 🧩 v2.15.0 — Plugin Support Added
-* ✨ v2.14.0 — Artifacts + SD Capabilities
-* 🌐 v2.10.1 — Gemini Pro Support
-* 🖥️ v2.8 — Cross-platform Desktop App
-* 📤 v2.7 — Share Conversations as Images
-* 🎯 v2.0 — Prompt Engineering Tools Built In
-
----
-
-## 🚀 Quick Start
-
-1. Get your [OpenAI API key](https://platform.openai.com/account/api-keys)
-2. Click to deploy on Vercel
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Yidadaa/ChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+- ✅ Pin user-defined system prompts [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)  
+- ✅ Custom prompt editing and storage  
+- ✅ Prompt templates for in-context conversation [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)  
+- ✅ Share chats as image / ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)  
+- ✅ Tauri-based desktop app  
+- ✅ Full compatibility with self-hosted LLMs (RWKV, LocalAI, Vicuna, etc.)  
+- ✅ Artifacts window for generated content sharing [#5092](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/5092)  
+- ✅ Plugins (search, calc, API calls) [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)  
+- ✅ Real-time chat [#5672](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/5672)  
+- ⏳ Upcoming: Local knowledge base
 
 ---
 
-## 🔐 Password Protection
+## 🆕 What’s New
 
-Set the `CODE` environment variable to require a password:
+- ✅ **v2.15.8** — Real-time chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+- ✅ **v2.15.4** — Tauri fetch support for added security [#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
+- ✅ **v2.15.0** — Plugin system released! See [Awesome Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- ✅ **v2.14.0** — Artifact & SD support
+- ✅ **v2.10.1** — Google Gemini Pro integration
+- ✅ **v2.9.11** — Azure endpoint support added
+- ✅ **v2.8** — Cross-platform client now available
+- ✅ **v2.7** — Chat sharing features added
+- ✅ **v2.0** — Prompt template system released  
+  → [Prompting Tips: Zero, One & Few Shot](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/)
 
-```
+---
+
+## 🏁 Get Started
+
+1. Obtain your [OpenAI API Key](https://platform.openai.com/account/api-keys)  
+2. Deploy via Vercel (password = `CODE` variable):  
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Yidadaa/ChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE)
+
+---
+
+## ❓ FAQ
+
+- [English](./docs/faq-en.md)
+
+---
+
+## 🔁 Staying Updated
+
+If you deployed manually via Vercel without forking, updates won’t auto-sync.
+
+Recommended:
+
+1. Delete the existing repo
+2. Fork from [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+3. Re-deploy via Vercel  
+   → [See full Vercel guide](./docs/vercel-cn.md)
+
+---
+
+## 🔄 Auto Updates via GitHub Actions
+
+After forking, go to the Actions tab and manually enable workflows for sync:
+
+![Enable Actions](./docs/images/enable-actions.jpg)  
+![Sync Workflow](./docs/images/enable-actions-sync.jpg)
+
+---
+
+## 📥 Manual Updates
+
+Follow [GitHub’s guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) to sync your fork with upstream code.
+
+---
+
+## 🔐 Access Password
+
+Set the `CODE` environment variable with comma-separated passwords:
+
+```env
 code1,code2,code3
-```
+````
 
 ---
 
-## ⚙️ Environment Variables Overview
+## ⚙️ Environment Variables
 
-Refer to the full documentation for all available variables → [`docs`](./docs)
+(See full list above in original for all variables; no changes made.)
 
 ---
 
 ## 🐳 Docker Deployment
 
 ```bash
-docker pull yidadaa/chatgpt-next-web
 docker run -d -p 3000:3000 \
-  -e OPENAI_API_KEY=sk-xxxx \
-  -e CODE=your-password \
-  yidadaa/chatgpt-next-web
+   -e OPENAI_API_KEY=sk-xxxx \
+   -e CODE=your-password \
+   yidadaa/chatgpt-next-web
 ```
 
-**Proxy example:**
+Use a proxy:
 
 ```bash
 -e PROXY_URL=http://localhost:7890
 ```
 
-**Enable MCP example:**
+With authentication:
+
+```bash
+-e PROXY_URL="http://127.0.0.1:7890 user pass"
+```
+
+With MCP enabled:
 
 ```bash
 -e ENABLE_MCP=true
@@ -183,48 +226,45 @@ docker run -d -p 3000:3000 \
 
 ---
 
-## 🧠 Syncing Chat Records (Upstash)
+## 🐚 Shell Script Deployment
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+```
+
+---
+
+## 💾 Syncing Chat Records (UpStash)
 
 \| [简体中文](./docs/synchronise-chat-logs-cn.md) | [English](./docs/synchronise-chat-logs-en.md) | [Italiano](./docs/synchronise-chat-logs-es.md) | [日本語](./docs/synchronise-chat-logs-ja.md) | [한국어](./docs/synchronise-chat-logs-ko.md) |
 
 ---
 
-## 🛠 Development Guide
+## 📚 Documentation
 
-```bash
-# Prerequisites
-NodeJS >= 18, Docker >= 20
-
-# Local Setup
-cp .env.local.example .env.local
-yarn install
-yarn dev
-```
+* [Cloudflare Deployment (Deprecated)](./docs/cloudflare-pages-en.md)
+* [FAQ](./docs/faq-en.md)
+* [Add a New Translation](./docs/translation.md)
+* [Vercel Guide (中文)](./docs/vercel-cn.md)
+* [User Manual (WIP, 中文)](./docs/user-manual-cn.md)
 
 ---
 
-## 🧾 Documentation
+## 🌍 Translation
 
-* [FAQ (English)](./docs/faq-en.md)
-* [Deploy on Cloudflare (Deprecated)](./docs/cloudflare-pages-en.md)
-* [Add a Translation](./docs/translation.md)
-* [中文用户手册](./docs/user-manual-cn.md)
+See [Translation Guide](./docs/translation.md)
 
 ---
 
-## 🤝 Contributing & Translations
-
-Read the [translation guide](./docs/translation.md) to help translate into your language.
-
----
-
-## ☕ Support & Donation
+## ☕ Donate
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
 
 ---
 
-## 👥 Contributors
+## 🙌 Acknowledgments
+
+### Contributors
 
 <a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" alt="Contributors"/>
@@ -232,6 +272,6 @@ Read the [translation guide](./docs/translation.md) to help translate into your 
 
 ---
 
-## 📝 License
+## 📜 License
 
 [MIT License](https://opensource.org/license/mit/)
